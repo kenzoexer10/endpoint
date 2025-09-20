@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 269,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 272,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 153,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 57,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 115,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 206,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 5,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 275,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 120,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 178,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 95,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 191,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 196,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 227,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 38,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 190,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 44,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 185,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 26,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 168,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 45,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 199,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 260,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 288,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 140,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 212,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 72,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 277,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 240,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 82,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 223,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 226,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 47,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 202,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 174,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 294,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 131,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 268,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 68,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 213,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 139,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 75,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 162,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 284,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 41,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 164,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 216,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 289,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 113,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 248,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 143,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 147,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 100,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 134,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 163,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 157,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 246,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 293,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 51,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 220,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 152,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 273,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 204,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 210,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 127,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 169,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 64,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 91,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 97,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 257,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 156,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 142,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 207,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 297,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 203,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 81,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 194,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 265,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 225,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 187,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 261,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 250,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 300,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 242,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 291,
+    "question": "বিশ্বের সবচেয়ে বড় মহাসাগর কোনটি?",
+    "options": {
+      "a": "অ্যাটলান্টিক",
+      "b": "ইন্ডিয়ান",
+      "c": "আর্কটিক",
+      "d": "প্যাসিফিক"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 211,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 201,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 56,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 258,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 232,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 234,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 251,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 235,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 172,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 222,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 200,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 63,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 209,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 180,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 146,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 249,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 283,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 179,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 214,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 166,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 290,
+    "question": "Hunter x Hunter এ গনের সবচেয়ে ভালো বন্ধু কে?",
+    "options": {
+      "a": "Killua",
+      "b": "Leorio",
+      "c": "Kurapika",
+      "d": "Hisoka"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 98,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 80,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 188,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 243,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 70,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 192,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 218,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 224,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 1,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 46,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 128,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 101,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 247,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 83,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 125,
+    "question": "FIFA গেম কোন ধরনের?",
+    "options": {
+      "a": "Battle Royale",
+      "b": "Football",
+      "c": "Racing",
+      "d": "Shooting"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 177,
+    "question": "Call of Duty কোন কোম্পানি প্রকাশ করেছে?",
+    "options": {
+      "a": "EA",
+      "b": "Ubisoft",
+      "c": "Activision",
+      "d": "Konami"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 170,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 53,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 67,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 231,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 278,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 280,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 233,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 118,
+    "question": "রোমান সাম্রাজ্য পতন হয় কোন সালে?",
+    "options": {
+      "a": "৪৭৬ খ্রিষ্টাব্দ",
+      "b": "৫০০ খ্রিষ্টাব্দ",
+      "c": "৬০০ খ্রিষ্টাব্দ",
+      "d": "৭০০ খ্রিষ্টাব্দ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 114,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 230,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "দ্বিতীয় বিশ্বযুদ্ধ কোন সালে শেষ হয়?",
+    "options": {
+      "a": "১৯৪২",
+      "b": "১৯৪৩",
+      "c": "১৯৪৪",
+      "d": "১৯৪৫"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 102,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 270,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "মিশরের বিখ্যাত রানীর নাম কী?",
+    "options": {
+      "a": "ক্লিওপেট্রা",
+      "b": "নেফারতিতি",
+      "c": "হাতশেপসুত",
+      "d": "মেরনিত"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 23,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 183,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 298,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 219,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 112,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 65,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 253,
+    "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+    "options": {
+      "a": "আম",
+      "b": "কলা",
+      "c": "কাঁঠাল",
+      "d": "লিচু"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 254,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 50,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 176,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 19,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 236,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 217,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 133,
+    "question": "Dragon Ball এ Goku এর আসল নাম কী?",
+    "options": {
+      "a": "Raditz",
+      "b": "Vegeta",
+      "c": "Kakarot",
+      "d": "Broly"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 48,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 184,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 182,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 266,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 159,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 276,
+    "question": "Minecraft কে তৈরি করেছে?",
+    "options": {
+      "a": "Markus Persson",
+      "b": "Bill Gates",
+      "c": "Elon Musk",
+      "d": "Jeff Bezos"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 108,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 296,
+    "question": "বিশ্বের দীর্ঘতম নদী কোনটি?",
+    "options": {
+      "a": "নাইল",
+      "b": "আমাজন",
+      "c": "গঙ্গা",
+      "d": "ইয়াংজি"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 13,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 228,
+    "question": "Super Mario গেম কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Nintendo",
+      "b": "Sony",
+      "c": "Microsoft",
+      "d": "Sega"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 110,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 107,
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা অর্জন করে?",
+    "options": {
+      "a": "১৯৭০",
+      "b": "১৯৭১",
+      "c": "১৯৭২",
+      "d": "১৯৭৩"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 292,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 221,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 208,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 279,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 267,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 256,
+    "question": "বাংলাদেশের সবচেয়ে দীর্ঘ সমুদ্র সৈকত কোথায়?",
+    "options": {
+      "a": "কক্সবাজার",
+      "b": "কুয়াকাটা",
+      "c": "সেন্টমার্টিন",
+      "d": "টেকনাফ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 263,
+    "question": "ফরাসি বিপ্লব কোন সালে হয়েছিল?",
+    "options": {
+      "a": "১৭৭৬",
+      "b": "১৭৮৯",
+      "c": "১৮০৪",
+      "d": "১৮১৫"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "সৈয়দ নজরুল ইসলাম",
+      "c": "জিয়াউর রহমান",
+      "d": "তাজউদ্দীন আহমেদ"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 171,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 138,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 286,
+    "question": "Bleach এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Ichigo",
+      "b": "Naruto",
+      "c": "Luffy",
+      "d": "Gon"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 299,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 271,
+    "question": "PUBG গেমটি কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৫",
+      "b": "২০১৬",
+      "c": "২০১৭",
+      "d": "২০১৮"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 145,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 151,
+    "question": "বাংলাদেশের রাজধানী কোথায়?",
+    "options": {
+      "a": "ঢাকা",
+      "b": "চট্টগ্রাম",
+      "c": "রাজশাহী",
+      "d": "সিলেট"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 264,
+    "question": "প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল কোন সালে?",
+    "options": {
+      "a": "১৯১২",
+      "b": "১৯১৪",
+      "c": "১৯১৬",
+      "d": "১৯১৮"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 237,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 259,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "question": "সূর্যের সবচেয়ে কাছের গ্রহ কোনটি?",
+    "options": {
+      "a": "মঙ্গল",
+      "b": "বুধ",
+      "c": "শুক্র",
+      "d": "পৃথিবী"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 144,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 198,
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": {
+      "a": "কাজী নজরুল ইসলাম",
+      "b": "রবীন্দ্রনাথ ঠাকুর",
+      "c": "জসীমউদ্দিন",
+      "d": "সেলিনা হোসেন"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 15,
+    "question": "মহাত্মা গান্ধীর জন্ম কোন সালে?",
+    "options": {
+      "a": "১৮৬৯",
+      "b": "১৮৭২",
+      "c": "১৮৮০",
+      "d": "১৮৯০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 167,
+    "question": "ইংল্যান্ডের রানী ভিক্টোরিয়ার শাসনকাল কোন শতকে?",
+    "options": {
+      "a": "১৬শ",
+      "b": "১৭শ",
+      "c": "১৮শ",
+      "d": "১৯শ"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 245,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 239,
+    "question": "Fullmetal Alchemist এর দুই ভাইয়ের নাম কী?",
+    "options": {
+      "a": "Edward & Alphonse",
+      "b": "Naruto & Sasuke",
+      "c": "Goku & Gohan",
+      "d": "Luffy & Ace"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 285,
+    "question": "Attack on Titan এ প্রধান চরিত্র কে?",
+    "options": {
+      "a": "Levi",
+      "b": "Mikasa",
+      "c": "Armin",
+      "d": "Eren Yeager"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 281,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "question": "বাংলাদেশের স্বাধীনতার ঘোষক কে?",
+    "options": {
+      "a": "শেখ মুজিবুর রহমান",
+      "b": "জিয়াউর রহমান",
+      "c": "তাজউদ্দীন আহমেদ",
+      "d": "সৈয়দ নজরুল ইসলাম"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 181,
+    "question": "Naruto এর স্বাক্ষর জুতসু কোনটি?",
+    "options": {
+      "a": "Chidori",
+      "b": "Rasengan",
+      "c": "Kamehameha",
+      "d": "Shadow Clone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 93,
+    "question": "মানব শরীরে কয়টি হাড় আছে?",
+    "options": {
+      "a": "২০৬",
+      "b": "২১০",
+      "c": "২২০",
+      "d": "২০০"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 150,
+    "question": "বিশ্বের উচ্চতম পর্বত কোনটি?",
+    "options": {
+      "a": "এভারেস্ট",
+      "b": "কাঞ্চনজঙ্ঘা",
+      "c": "আন্নপূর্ণা",
+      "d": "লোতসে"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 274,
+    "question": "Free Fire কোন কোম্পানি তৈরি করেছে?",
+    "options": {
+      "a": "Tencent",
+      "b": "Garena",
+      "c": "Moonton",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 255,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "question": "প্রথম অলিম্পিক গেমস কোথায় হয়েছিল?",
+    "options": {
+      "a": "গ্রিস",
+      "b": "রোম",
+      "c": "ফ্রান্স",
+      "d": "ইংল্যান্ড"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 173,
+    "question": "God of War গেমের মূল চরিত্র কে?",
+    "options": {
+      "a": "Kratos",
+      "b": "Zeus",
+      "c": "Ares",
+      "d": "Atreus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 252,
+    "question": "বাংলাদেশের জাতীয় ফুল কী?",
+    "options": {
+      "a": "গোলাপ",
+      "b": "শাপলা",
+      "c": "টিউলিপ",
+      "d": "জুঁই"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "question": "বাংলাদেশের মুক্তিযুদ্ধ কত দিন স্থায়ী ছিল?",
+    "options": {
+      "a": "৭ মাস",
+      "b": "৮ মাস",
+      "c": "৯ মাস",
+      "d": "১০ মাস"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 262,
+    "question": "আমেরিকা কে আবিষ্কার করেন?",
+    "options": {
+      "a": "ভাস্কো দা গামা",
+      "b": "ক্রিস্টোফার কলম্বাস",
+      "c": "ম্যাগেলান",
+      "d": "আমেরিগো ভেসপুচ্চি"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 54,
+    "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+    "options": {
+      "a": "ইলিশ",
+      "b": "রুই",
+      "c": "কাতলা",
+      "d": "পাঙ্গাস"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Death Note কার লেখা?",
+    "options": {
+      "a": "Light Yagami",
+      "b": "L",
+      "c": "Ryuk",
+      "d": "Near"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 205,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 282,
+    "question": "One Piece এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Zoro",
+      "b": "Sanji",
+      "c": "Monkey D. Luffy",
+      "d": "Shanks"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 122,
+    "question": "PlayStation 5 কোন সালে মুক্তি পায়?",
+    "options": {
+      "a": "২০১৮",
+      "b": "২০১৯",
+      "c": "২০২০",
+      "d": "২০২১"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 295,
+    "question": "চাঁদে প্রথম পদার্পণ করেন কে?",
+    "options": {
+      "a": "Neil Armstrong",
+      "b": "Buzz Aldrin",
+      "c": "Yuri Gagarin",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 155,
+    "question": "বাংলাদেশের মুদ্রার নাম কী?",
+    "options": {
+      "a": "রুপি",
+      "b": "টাকা",
+      "c": "ডলার",
+      "d": "দিনার"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 87,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 149,
+    "question": "আলবার্ট আইনস্টাইন কোন তত্ত্ব প্রবর্তন করেন?",
+    "options": {
+      "a": "আপেক্ষিক তত্ত্ব",
+      "b": "গতি তত্ত্ব",
+      "c": "উত্তেজনা তত্ত্ব",
+      "d": "কোয়ান্টাম তত্ত্ব"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 287,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 229,
+    "question": "League of Legends কোন কোম্পানির?",
+    "options": {
+      "a": "Valve",
+      "b": "Riot Games",
+      "c": "Blizzard",
+      "d": "Capcom"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 197,
+    "question": "মানব হৃদয়ে কয়টি প্রকোষ্ঠ আছে?",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "৫"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 116,
+    "question": "তাজমহল কে নির্মাণ করেন?",
+    "options": {
+      "a": "আকবর",
+      "b": "শাহজাহান",
+      "c": "বাবর",
+      "d": "আউরঙ্গজেব"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 137,
+    "question": "Demon Slayer এ তানজিরোর বোনের নাম কী?",
+    "options": {
+      "a": "Nezuko",
+      "b": "Mikasa",
+      "c": "Hinata",
+      "d": "Asuna"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 244,
+    "question": "বিশ্বের সবচেয়ে বড় দেশ আয়তনে কোনটি?",
+    "options": {
+      "a": "চীন",
+      "b": "রাশিয়া",
+      "c": "আমেরিকা",
+      "d": "কানাডা"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Dota 2 কোন গেম ইঞ্জিনে তৈরি?",
+    "options": {
+      "a": "Unity",
+      "b": "Unreal",
+      "c": "Source",
+      "d": "CryEngine"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Tokyo Ghoul এর মূল চরিত্র কে?",
+    "options": {
+      "a": "Kaneki Ken",
+      "b": "Levi",
+      "c": "Light",
+      "d": "Itachi"
+    },
+    "correctAnswer": "A"
+  }
+]
