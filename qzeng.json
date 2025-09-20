@@ -1,0 +1,802 @@
+[
+  {
+    "question": "What are the 'Big Three' shonen manga of the 2000s?",
+    "options": {
+      "a": "Dragon Ball, One Piece, Naruto",
+      "b": "Naruto, One Piece, Bleach",
+      "c": "My Hero Academia, Demon Slayer, Jujutsu Kaisen",
+      "d": "Attack on Titan, Fullmetal Alchemist, Death Note"
+    },
+    "correctAnswer": "Naruto, One Piece, Bleach"
+  },
+  {
+    "question": "Who is the main protagonist of One Piece?",
+    "options": {
+      "a": "Roronoa Zoro",
+      "b": "Monkey D. Luffy",
+      "c": "Nami",
+      "d": "Sanji"
+    },
+    "correctAnswer": "Monkey D. Luffy"
+  },
+  {
+    "question": "Who is the author of One Piece?",
+    "options": {
+      "a": "Akira Toriyama",
+      "b": "Eiichiro Oda",
+      "c": "Masashi Kishimoto",
+      "d": "Hirohiko Araki"
+    },
+    "correctAnswer": "Eiichiro Oda"
+  },
+  {
+    "question": "Who is the main protagonist of Demon Slayer?",
+    "options": {
+      "a": "Zenitsu Agatsuma",
+      "b": "Inosuke Hashibira",
+      "c": "Nezuko Kamado",
+      "d": "Tanjiro Kamado"
+    },
+    "correctAnswer": "Tanjiro Kamado"
+  },
+  {
+    "question": "Who is the main protagonist of Attack on Titan?",
+    "options": {
+      "a": "Mikasa Ackerman",
+      "b": "Armin Arlert",
+      "c": "Eren Yeager",
+      "d": "Levi Ackerman"
+    },
+    "correctAnswer": "Eren Yeager"
+  },
+  {
+    "question": "Who is the main protagonist of Death Note?",
+    "options": {
+      "a": "L",
+      "b": "Misa Amane",
+      "c": "Ryuk",
+      "d": "Light Yagami"
+    },
+    "correctAnswer": "Light Yagami"
+  },
+  {
+    "question": "Who is the main protagonist of Jujutsu Kaisen?",
+    "options": {
+      "a": "Megumi Fushiguro",
+      "b": "Nobara Kugisaki",
+      "c": "Satoru Gojo",
+      "d": "Yuji Itadori"
+    },
+    "correctAnswer": "Yuji Itadori"
+  },
+  {
+    "question": "Who is the main protagonist of My Hero Academia?",
+    "options": {
+      "a": "Katsuki Bakugo",
+      "b": "Shoto Todoroki",
+      "c": "Izuku Midoriya",
+      "d": "All Might"
+    },
+    "correctAnswer": "Izuku Midoriya"
+  },
+  {
+    "question": "Who is the main protagonist of Tokyo Ghoul?",
+    "options": {
+      "a": "Hideyoshi Nagachika",
+      "b": "Yoshimura",
+      "c": "Ken Kaneki",
+      "d": "Koutarou Amon"
+    },
+    "correctAnswer": "Ken Kaneki"
+  },
+  {
+    "question": "Who is the main protagonist of Neon Genesis Evangelion?",
+    "options": {
+      "a": "Rei Ayanami",
+      "b": "Asuka Langley Soryu",
+      "c": "Kaworu Nagisa",
+      "d": "Shinji Ikari"
+    },
+    "correctAnswer": "Shinji Ikari"
+  },
+  {
+    "question": "Who directed the movie 'Your Name' (Kimi no Na wa)?",
+    "options": {
+      "a": "Hayao Miyazaki",
+      "b": "Makoto Shinkai",
+      "c": "Isao Takahata",
+      "d": "Hideaki Anno"
+    },
+    "correctAnswer": "Makoto Shinkai"
+  },
+  {
+    "question": "Which studio animated the first season of 'Cowboy Bebop'?",
+    "options": {
+      "a": "Studio Ghibli",
+      "b": "Sunrise",
+      "c": "Bones",
+      "d": "Madhouse"
+    },
+    "correctAnswer": "Sunrise"
+  },
+  {
+    "question": "What is the name of the alchemical principle in 'Fullmetal Alchemist'?",
+    "options": {
+      "a": "Philosopher's Stone",
+      "b": "Homunculus Law",
+      "c": "Equivalent Exchange",
+      "d": "Gate of Truth"
+    },
+    "correctAnswer": "Equivalent Exchange"
+  },
+  {
+    "question": "Who is the creator of the 'Dragon Ball' manga?",
+    "options": {
+      "a": "Masashi Kishimoto",
+      "b": "Eiichiro Oda",
+      "c": "Akira Toriyama",
+      "d": "Tite Kubo"
+    },
+    "correctAnswer": "Akira Toriyama"
+  },
+  {
+    "question": "In 'Hunter x Hunter', what is the name of Gon Freecss's best friend?",
+    "options": {
+      "a": "Leorio Paradinight",
+      "b": "Kurapika",
+      "c": "Killua Zoldyck",
+      "d": "Hisoka Morow"
+    },
+    "correctAnswer": "Killua Zoldyck"
+  },
+  {
+    "question": "What is the term for Japanese comics?",
+    "options": {
+      "a": "Anime",
+      "b": "Dorama",
+      "c": "Manga",
+      "d": "J-pop"
+    },
+    "correctAnswer": "Manga"
+  },
+  {
+    "question": "Which of these is NOT a main character in 'Naruto'?",
+    "options": {
+      "a": "Sasuke Uchiha",
+      "b": "Sakura Haruno",
+      "c": "Obito Uchiha",
+      "d": "Naruto Uzumaki"
+    },
+    "correctAnswer": "Obito Uchiha"
+  },
+  {
+    "question": "What is the name of the final season animation studio for 'Attack on Titan'?",
+    "options": {
+      "a": "Wit Studio",
+      "b": "Production I.G",
+      "c": "MAPPA",
+      "d": "Studio Pierrot"
+    },
+    "correctAnswer": "MAPPA"
+  },
+  {
+    "question": "Who is the Shinigami (God of Death) that drops the Death Note in the human world?",
+    "options": {
+      "a": "Rem",
+      "b": "Sidoh",
+      "c": "Ryuk",
+      "d": "Gelus"
+    },
+    "correctAnswer": "Ryuk"
+  },
+  {
+    "question": "In 'My Hero Academia', what is All Might's real name?",
+    "options": {
+      "a": "Toshinori Yagi",
+      "b": "Yoichi Shigaraki",
+      "c": "Nana Shimura",
+      "d": "Enji Todoroki"
+    },
+    "correctAnswer": "Toshinori Yagi"
+  },
+  {
+    "question": "Which company developed PUBG (original PC version)?",
+    "options": {
+      "a": "Krafton (formerly Bluehole)",
+      "b": "Epic Games",
+      "c": "Tencent Games",
+      "d": "Riot Games"
+    },
+    "correctAnswer": "Krafton (formerly Bluehole)"
+  },
+  {
+    "question": "Which company developed Fortnite?",
+    "options": {
+      "a": "Activision Blizzard",
+      "b": "Epic Games",
+      "c": "Electronic Arts (EA)",
+      "d": "Ubisoft"
+    },
+    "correctAnswer": "Epic Games"
+  },
+  {
+    "question": "What is the primary genre of the game 'Minecraft'?",
+    "options": {
+      "a": "First-Person Shooter (FPS)",
+      "b": "Real-Time Strategy (RTS)",
+      "c": "Sandbox",
+      "d": "Massively Multiplayer Online Role-Playing Game (MMORPG)"
+    },
+    "correctAnswer": "Sandbox"
+  },
+  {
+    "question": "In Mobile Legends: Bang Bang, what is the primary objective for a team?",
+    "options": {
+      "a": "Capture all control points",
+      "b": "Destroy the enemy's 'Crystal'",
+      "c": "Defeat the enemy's 'Base' or 'Core'",
+      "d": "Collect the most gold"
+    },
+    "correctAnswer": "Destroy the enemy's 'Base' or 'Core'"
+  },
+  {
+    "question": "Which game is credited with popularizing the battle royale genre?",
+    "options": {
+      "a": "Fortnite",
+      "b": "PlayerUnknown's Battlegrounds (PUBG)",
+      "c": "H1Z1",
+      "d": "Apex Legends"
+    },
+    "correctAnswer": "PlayerUnknown's Battlegrounds (PUBG)"
+  },
+  {
+    "question": "What is the main currency used in Garena Free Fire?",
+    "options": {
+      "a": "Diamonds",
+      "b": "Coins",
+      "c": "Gems",
+      "d": "Tokens"
+    },
+    "correctAnswer": "Coins"
+  },
+  {
+    "question": "In Call of Duty: Mobile, what does 'CODM' stand for?",
+    "options": {
+      "a": "Call of Duty: Modern",
+      "b": "Call of Duty: Mobile",
+      "c": "Commandos of Duty: Mobile",
+      "d": "Call of Duty: Multiplayer"
+    },
+    "correctAnswer": "Call of Duty: Mobile"
+  },
+  {
+    "question": "Which of these is NOT a playable character (Survivor) in Free Fire as of late 2023?",
+    "options": {
+      "a": "Alok",
+      "b": "Klauss",
+      "c": "Chrono",
+      "d": "Saitama"
+    },
+    "correctAnswer": "Saitama"
+  },
+  {
+    "question": "What year was the original 'Minecraft' (Java Edition) first released to the public (initial release)?",
+    "options": {
+      "a": "2009",
+      "b": "2010",
+      "c": "2011",
+      "d": "2012"
+    },
+    "correctAnswer": "2009"
+  },
+  {
+    "question": "Which company developed the original 'League of Legends'?",
+    "options": {
+      "a": "Blizzard Entertainment",
+      "b": "Valve Corporation",
+      "c": "Riot Games",
+      "d": "Epic Games"
+    },
+    "correctAnswer": "Riot Games"
+  },
+  {
+    "question": "What is the primary setting for the 'Counter-Strike' series?",
+    "options": {
+      "a": "Fantasy Medieval",
+      "b": "Space Opera",
+      "c": "Modern/Cold War Era",
+      "d": "Post-Apocalyptic"
+    },
+    "correctAnswer": "Modern/Cold War Era"
+  },
+  {
+    "question": "In the game 'Among Us', what are the players who are secretly trying to eliminate the crew called?",
+    "options": {
+      "a": "Saboteurs",
+      "b": "Impostors",
+      "c": "Traitors",
+      "d": "Wolves"
+    },
+    "correctAnswer": "Impostors"
+  },
+  {
+    "question": "Which of these is a primary game mode in 'Valorant'?",
+    "options": {
+      "a": "Capture the Flag",
+      "b": "Bomb Defusal (Spike Rush/Standard)",
+      "c": "King of the Hill",
+      "d": "Team Deathmatch"
+    },
+    "correctAnswer": "Bomb Defusal (Spike Rush/Standard)"
+  },
+  {
+    "question": "What is the name of the main protagonist in the 'God of War' (2018) game?",
+    "options": {
+      "a": "Atreus",
+      "b": "Kratos",
+      "c": "Zeus",
+      "d": "Ares"
+    },
+    "correctAnswer": "Kratos"
+  },
+  {
+    "question": "Which game series features the character 'Master Chief'?",
+    "options": {
+      "a": "Destiny",
+      "b": "Halo",
+      "c": "Call of Duty",
+      "d": "Gears of War"
+    },
+    "correctAnswer": "Halo"
+  },
+  {
+    "question": "In what year did World War I begin?",
+    "options": {
+      "a": "1914",
+      "b": "1917",
+      "c": "1939",
+      "d": "1941"
+    },
+    "correctAnswer": "1914"
+  },
+  {
+    "question": "The Renaissance period is generally considered to have originated in which country?",
+    "options": {
+      "a": "France",
+      "b": "England",
+      "c": "Italy",
+      "d": "Germany"
+    },
+    "correctAnswer": "Italy"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "Abraham Lincoln",
+      "c": "George Washington",
+      "d": "John Adams"
+    },
+    "correctAnswer": "George Washington"
+  },
+  {
+    "question": "The ancient city of Pompeii was destroyed by the eruption of which volcano?",
+    "options": {
+      "a": "Mount Etna",
+      "b": "Mount Vesuvius",
+      "c": "Mount St. Helens",
+      "d": "Krakatoa"
+    },
+    "correctAnswer": "Mount Vesuvius"
+  },
+  {
+    "question": "The Magna Carta, signed in 1215, was a significant document in the history of which country?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "England",
+      "d": "Italy"
+    },
+    "correctAnswer": "England"
+  },
+  {
+    "question": "Which scientist is credited with developing the theory of relativity?",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Galileo Galilei",
+      "c": "Albert Einstein",
+      "d": "Niels Bohr"
+    },
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "question": "The process by which plants convert sunlight into energy is called?",
+    "options": {
+      "a": "Respiration",
+      "b": "Digestion",
+      "c": "Photosynthesis",
+      "d": "Fermentation"
+    },
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": {
+      "a": "Sydney",
+      "b": "Melbourne",
+      "c": "Canberra",
+      "d": "Perth"
+    },
+    "correctAnswer": "Canberra"
+  },
+  {
+    "question": "The Nile River flows through which continent?",
+    "options": {
+      "a": "South America",
+      "b": "Asia",
+      "c": "Africa",
+      "d": "Europe"
+    },
+    "correctAnswer": "Africa"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Pablo Picasso",
+      "c": "Leonardo da Vinci",
+      "d": "Michelangelo"
+    },
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": {
+      "a": "1987",
+      "b": "1989",
+      "c": "1991",
+      "d": "1993"
+    },
+    "correctAnswer": "1989"
+  },
+  {
+    "question": "Which planet in our solar system has the most moons?",
+    "options": {
+      "a": "Jupiter",
+      "b": "Saturn",
+      "c": "Uranus",
+      "d": "Neptune"
+    },
+    "correctAnswer": "Saturn"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": {
+      "a": "Charles Dickens",
+      "b": "William Shakespeare",
+      "c": "Jane Austen",
+      "d": "Mark Twain"
+    },
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "The currency of Japan is the?",
+    "options": {
+      "a": "Won",
+      "b": "Yuan",
+      "c": "Yen",
+      "d": "Ringgit"
+    },
+    "correctAnswer": "Yen"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": {
+      "a": "Atlantic Ocean",
+      "b": "Indian Ocean",
+      "c": "Arctic Ocean",
+      "d": "Pacific Ocean"
+    },
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": {
+      "a": "Marie Curie",
+      "b": "Alexander Fleming",
+      "c": "Louis Pasteur",
+      "d": "Gregor Mendel"
+    },
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the chemical symbol for the element Gold?",
+    "options": {
+      "a": "Go",
+      "b": "Gd",
+      "c": "Au",
+      "d": "Ag"
+    },
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": {
+      "a": "Vladimir Lenin",
+      "b": "Leon Trotsky",
+      "c": "Joseph Stalin",
+      "d": "Nikita Khrushchev"
+    },
+    "correctAnswer": "Joseph Stalin"
+  },
+  {
+    "question": "The process of water changing from a liquid to a gas is called?",
+    "options": {
+      "a": "Condensation",
+      "b": "Freezing",
+      "c": "Evaporation",
+      "d": "Sublimation"
+    },
+    "correctAnswer": "Evaporation"
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "options": {
+      "a": "Aristotle",
+      "b": "Euclid",
+      "c": "Pythagoras",
+      "d": "Archimedes"
+    },
+    "correctAnswer": "Euclid"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": {
+      "a": "China",
+      "b": "Thailand",
+      "c": "South Korea",
+      "d": "Japan"
+    },
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": {
+      "a": "African Elephant",
+      "b": "Blue Whale",
+      "c": "Giraffe",
+      "d": "Hippopotamus"
+    },
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": {
+      "a": "Raphael",
+      "b": "Donatello",
+      "c": "Leonardo da Vinci",
+      "d": "Michelangelo"
+    },
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "In which year did the French Revolution begin?",
+    "options": {
+      "a": "1776",
+      "b": "1789",
+      "c": "1804",
+      "d": "1815"
+    },
+    "correctAnswer": "1789"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": {
+      "a": "Toronto",
+      "b": "Vancouver",
+      "c": "Montreal",
+      "d": "Ottawa"
+    },
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "Who was the British Prime Minister at the start of World War II?",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Neville Chamberlain",
+      "c": "Clement Attlee",
+      "d": "Anthony Eden"
+    },
+    "correctAnswer": "Neville Chamberlain"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": {
+      "a": "Gold",
+      "b": "Iron",
+      "c": "Diamond",
+      "d": "Platinum"
+    },
+    "correctAnswer": "Diamond"
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for filtering blood?",
+    "options": {
+      "a": "Heart",
+      "b": "Lungs",
+      "c": "Liver",
+      "d": "Kidneys"
+    },
+    "correctAnswer": "Kidneys"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": {
+      "a": "Thomas Edison",
+      "b": "Alexander Graham Bell",
+      "c": "Guglielmo Marconi",
+      "d": "Nikola Tesla"
+    },
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "The Great Wall of China was primarily built during the reign of which dynasty?",
+    "options": {
+      "a": "Tang Dynasty",
+      "b": "Song Dynasty",
+      "c": "Ming Dynasty",
+      "d": "Qin Dynasty"
+    },
+    "correctAnswer": "Ming Dynasty"
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "options": {
+      "a": "Aldous Huxley",
+      "b": "Ray Bradbury",
+      "c": "George Orwell",
+      "d": "Philip K. Dick"
+    },
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": {
+      "a": "Euro",
+      "b": "Pound Sterling",
+      "c": "Franc",
+      "d": "Mark"
+    },
+    "correctAnswer": "Pound Sterling"
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "options": {
+      "a": "Amazon River",
+      "b": "Paraná River",
+      "c": "Orinoco River",
+      "d": "São Francisco River"
+    },
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": {
+      "a": "Buzz Aldrin",
+      "b": "Yuri Gagarin",
+      "c": "Neil Armstrong",
+      "d": "Michael Collins"
+    },
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the capital city of Bangladesh?",
+    "options": {
+      "a": "Chittagong",
+      "b": "Khulna",
+      "c": "Dhaka",
+      "d": "Rajshahi"
+    },
+    "correctAnswer": "Dhaka"
+  },
+  {
+    "question": "When did Bangladesh gain independence?",
+    "options": {
+      "a": "1947",
+      "b": "1971",
+      "c": "1972",
+      "d": "1991"
+    },
+    "correctAnswer": "1971"
+  },
+  {
+    "question": "What is the national flower of Bangladesh?",
+    "options": {
+      "a": "Rose",
+      "b": "Marigold",
+      "c": "Water Lily (Shapla)",
+      "d": "Sunflower"
+    },
+    "correctAnswer": "Water Lily (Shapla)"
+  },
+  {
+    "question": "Which is the longest sea beach in the world located in Bangladesh?",
+    "options": {
+      "a": "Patenga Beach",
+      "b": "Inani Beach",
+      "c": "Kuakata Beach",
+      "d": "Cox's Bazar Beach"
+    },
+    "correctAnswer": "Cox's Bazar Beach"
+  },
+  {
+    "question": "Who is known as the 'Father of the Nation' in Bangladesh?",
+    "options": {
+      "a": "Ziaur Rahman",
+      "b": "Sheikh Mujibur Rahman",
+      "c": "Huseyn Shaheed Suhrawardy",
+      "d": "A.K. Fazlul Huq"
+    },
+    "correctAnswer": "Sheikh Mujibur Rahman"
+  },
+  {
+    "question": "What is the official language of Bangladesh?",
+    "options": {
+      "a": "English",
+      "b": "Hindi",
+      "c": "Bengali (Bangla)",
+      "d": "Urdu"
+    },
+    "correctAnswer": "Bengali (Bangla)"
+  },
+  {
+    "question": "Which mangrove forest is located in Bangladesh and is famous for being the habitat of the Royal Bengal Tiger?",
+    "options": {
+      "a": "Sundarbans",
+      "b": "Lawachara",
+      "c": "Madhupur",
+      "d": "Himchori"
+    },
+    "correctAnswer": "Sundarbans"
+  },
+  {
+    "question": "What is the currency of Bangladesh?",
+    "options": {
+      "a": "Rupee",
+      "b": "Taka",
+      "c": "Dollar",
+      "d": "Ringgit"
+    },
+    "correctAnswer": "Taka"
+  },
+  {
+    "question": "Which port is the principal seaport of Bangladesh?",
+    "options": {
+      "a": "Mongla Port",
+      "b": "Payra Port",
+      "c": "Chittagong Port",
+      "d": "Dhaka River Port"
+    },
+    "correctAnswer": "Chittagong Port"
+  },
+  {
+    "question": "In which district is the ancient archaeological site 'Paharpur' located in Bangladesh?",
+    "options": {
+      "a": "Comilla",
+      "b": "Bagerhat",
+      "c": "Naogaon",
+      "d": "Rajshahi"
+    },
+    "correctAnswer": "Naogaon"
+  },
+  {
+    "question": "Who assassinated Bangabandhu Sheikh Mujibur Rahman?",
+    "options": {
+      "a": "Ziaur Rahman",
+      "b": "Khondaker Mostaq Ahmad",
+      "c": "Some disgruntled army personnel",
+      "d": "Tajuddin Ahmad"
+    },
+    "correctAnswer": "Some disgruntled army personnel"
+  }
+]
